@@ -14,3 +14,7 @@ cell containing the artifact) and to return to its initial position.
 In order to evaluate agent's effiecnecy, the application keeps track of score:
 - each action decreases the score by 1 point
 - each collected artifact adds 100 points to the score
+
+## Interface 
+
+comming soon
